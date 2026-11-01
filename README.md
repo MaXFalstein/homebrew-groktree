@@ -1,6 +1,6 @@
 # homebrew-groktree
 
-Homebrew tap for [groktree](https://github.com/MaXFalstein/grok-build-wtree), a read-only inspector for Grok Build worktrees.
+Homebrew tap for [groktree](https://github.com/MaXFalstein/groktree), a read-only inspector for Grok Build worktrees.
 
 ## Install
 
